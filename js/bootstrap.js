@@ -9,16 +9,16 @@ var store = window.localStorage;
 //branded apps
 //var domain = 'mckesson.medpower.org';
 //var domain = 'nyack.medpower.org';
-var domain = 'k2t.matrixlms.com';
+//var domain = 'k2t.matrixlms.com';
 //var domain = 'sandbox.edu-20.com:3000';
 //var domain = 'carroll.medpower.org';
 //var domain = 'ecampus.matrixlms.com';
 //var domain = 'www.cuohde.com';
 //var domain = 'th.medpower.org';
+var domain = 'learn.artvansellinginstitute.org';
 
-
-//var domainProtocol = 'http';
-var domainProtocol = 'https';
+var domainProtocol = 'http';
+//var domainProtocol = 'https';
 
 //for regular app
 // var loginUrl = domainProtocol + '://' + domain + '/app/launch?version=' + appVersion + '&mobile_app=true&new_ios_app=true&left_nav=true&new_left_nav=true&redirected=true&new_jwplayer=true';
