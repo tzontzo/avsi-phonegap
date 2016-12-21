@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.matrixlms.k2t.android" version="1.01" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
- <name>Art Van Selling Institute</name>
+     <name>Art Van Selling Institute</name>
     <description>
         The Art Van Selling Institute (AVSI) is a sales education institute designed to inspire individuals to pursue and enhance their career in Sales. With the AVSI mobile app you can access course content, review assessments, track your progress, collaborate with fellow learners/instructors, share resources, receive notifications, and more.
     </description>
