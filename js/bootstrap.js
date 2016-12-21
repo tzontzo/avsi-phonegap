@@ -17,8 +17,8 @@ var domain = 'k2t.matrixlms.com';
 //var domain = 'th.medpower.org';
 
 
-var domainProtocol = 'http';
-// var domainProtocol = 'https';
+//var domainProtocol = 'http';
+var domainProtocol = 'https';
 
 //for regular app
 // var loginUrl = domainProtocol + '://' + domain + '/app/launch?version=' + appVersion + '&mobile_app=true&new_ios_app=true&left_nav=true&new_left_nav=true&redirected=true&new_jwplayer=true';
