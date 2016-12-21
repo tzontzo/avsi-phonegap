@@ -9,13 +9,13 @@ var store = window.localStorage;
 //branded apps
 //var domain = 'mckesson.medpower.org';
 //var domain = 'nyack.medpower.org';
-//var domain = 'k2t.matrixlms.com';
+var domain = 'k2t.matrixlms.com';
 //var domain = 'sandbox.edu-20.com:3000';
 //var domain = 'carroll.medpower.org';
 //var domain = 'ecampus.matrixlms.com';
 //var domain = 'www.cuohde.com';
 //var domain = 'th.medpower.org';
-var doamin = 'learn.artvansellinginstitute.org';
+
 
 var domainProtocol = 'http';
 // var domainProtocol = 'https';
